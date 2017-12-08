@@ -5,8 +5,7 @@
   "scripts": {
     "build": "ngm build -p src --clean"
   },
-  "private": true,
-  "author": "Xie Ziyu <xieziyu@foxmail.com> (https://xieziyu.github.io/)",
+  "author": "Gilles Pansu <gilles.pansu@gmail.com> (https://github.com/gpansu)",
   "keywords": [ "angular", "2", "4", "draggable", "ng" ],
   "repository": {
     "type": "git",
