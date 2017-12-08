@@ -3,3 +3,4 @@ src
 .editorconfig
 .gitignore
 debug.log
+.idea/*
