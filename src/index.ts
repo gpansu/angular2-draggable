@@ -1,16 +1,16 @@
 import { NgModule } from '@angular/core';
 
-import { AngularDraggableDirective } from './directive/angular-draggable.directive';
-
-export * from './directive/angular-draggable.directive';
+import { DragAndCheckDirective, Offsets } from './directive/drag-and-check.directive';
 
 @NgModule({
   declarations: [
-    AngularDraggableDirective
+    DragAndCheckDirective,
+    Offsets
   ],
   exports: [
-    AngularDraggableDirective
+    DragAndCheckDirective,
+    Offsets
   ]
 })
-export class AngularDraggableModule {
+export class DragAndCheckModule {
 }
