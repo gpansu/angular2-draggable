@@ -53,12 +53,12 @@ Please refer to the [demo](https://xieziyu.github.io/#/angular2-draggable/demo) 
 
 1. Firstly, import `AngularDraggableModule` in your app module (or any other proper angular module):
     ```typescript
-    import { AngularDraggableModule } from 'angular2-draggable';
+    import { DragAndCheckModule } from 'ng2-drag-and-check';
 
     @NgModule({
       imports: [
         ...,
-        AngularDraggableModule
+        DragAndCheckModule
       ],
       ...
     })
@@ -86,7 +86,7 @@ Please refer to the [demo](https://xieziyu.github.io/#/angular2-draggable/demo) 
 # API
 
 ## Directive:
-`ngDraggable` directive support following input porperties:
+`ngDraggable` directive support following input properties:
 + `ngDraggable`: boolean. You can toggle the draggable capability by setting `true`/`false` to `ngDraggable`
 
 + `handle`: HTMLElement. Use template variable to refer to the handle element. Then only the handle element is draggable.
