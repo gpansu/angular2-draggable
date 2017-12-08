@@ -1,4 +1,5 @@
-# ng2-drag-and-check (https://www.npmjs.com/package/ng2-drag-and-check)
+# ng2-drag-and-check
+(https://www.npmjs.com/package/ng2-drag-and-check)  
 Angular directive (for version >= 2.x ) that makes the DOM element draggable, with additional checks on out of bounds elements. All credits should go to xieziyu for his ground work.
 
 ## Table of contents 
