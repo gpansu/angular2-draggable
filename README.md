@@ -1,5 +1,5 @@
-# angular2-draggable [![npm version](https://badge.fury.io/js/angular2-draggable.svg)](http://badge.fury.io/js/angular2-draggable) [![npm downloads](https://img.shields.io/npm/dm/angular2-draggable.svg)](https://npmjs.org/angular2-draggable)
-Angular directive (for version >= 2.x ) that makes the DOM element draggable. Please refer to the [demo](https://xieziyu.github.io/#/angular2-draggable/demo) page.
+# ng2-drag-and-check [![npm version](https://badge.fury.io/js/angular2-draggable.svg)](http://badge.fury.io/js/angular2-draggable) [![npm downloads](https://img.shields.io/npm/dm/angular2-draggable.svg)](https://npmjs.org/angular2-draggable)
+Angular directive (for version >= 2.x ) that makes the DOM element draggable, with additional checks on out of bounds elements. All credits should go to xieziyu for his ground work.
 
 ## Table of contents 
 1. [Getting Started](#getting-started)
@@ -9,7 +9,7 @@ Angular directive (for version >= 2.x ) that makes the DOM element draggable. Pl
 6. [Events](#events)
 
 # Getting Started
-angular2-draggable is an angular (ver >= 2.x) directive that makes the DOM element draggable. (Note that: It's different from drag-and-drop)
+ng2-drag-and-check is an angular (ver >= 2.x) directive that makes the DOM element draggable. (Note that: It's different from drag-and-drop)
 
 # Latest Update
 + 2017.09.19: Fix an issue when dragging with touch.
