@@ -1,22 +1,22 @@
 {
-  "name": "angular2-draggable-base",
+  "name": "ng2-drag-and-check",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "ngm build -p src --clean"
   },
   "author": "Gilles Pansu <gilles.pansu@gmail.com> (https://github.com/gpansu)",
-  "keywords": [ "angular", "2", "4", "draggable", "ng" ],
+  "keywords": [ "angular", "2", "4", "draggable", "ng", "drag" ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/xieziyu/angular2-draggable.git"
+    "url": "git+ssh://git@github.com/gpansu/ng2-drag-and-check.git"
   },
   "bugs": {
-    "url": "https://github.com/xieziyu/angular2-draggable/issues",
-    "email": "xieziyu@foxmail.com"
+    "url": "https://github.com/gpansu/ng2-drag-and-check/issues",
+    "email": "gilles.pansu@gmail.com"
   },
-  "homepage": "https://github.com/xieziyu/angular2-draggable#readme",
-  "main": "bundles/angular-draggable.umd.js",
+  "homepage": "https://github.com/gpansu/ng2-drag-and-check#readme",
+  "main": "bundles/ng2-drag-and-check.umd.js",
   "peerDependencies": {
     "@angular/common": "^2.3.1 || >=4.0.0",
     "@angular/compiler": "^2.3.1 || >=4.0.0",
