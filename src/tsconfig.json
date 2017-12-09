@@ -4,8 +4,12 @@
     "experimentalDecorators": true,
     "target": "es5",
     "module": "es2015",
+    "strictNullChecks": true,
     "lib": ["es2015", "dom"],
     "moduleResolution": "node",
+    "paths": {
+      "@angular/core": ["node_modules/@angular/core"]
+    },
     "removeComments": true,
     "sourceMap": true,
     "outDir": "../dist",
@@ -16,6 +20,7 @@
     "index.ts"
   ],
   "angularCompilerOptions": {
-    "genDir": "../temp/aot"
+    "genDir": "../temp/aot",
+    "strictMetadataEmit": true
   }
 }
