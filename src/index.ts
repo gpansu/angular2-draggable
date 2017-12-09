@@ -1,16 +1,15 @@
 import { NgModule } from '@angular/core';
 
-import { DragAndCheckDirective, Offsets } from './directive/drag-and-check.directive';
+import { DragAndCheckDirective } from './directive/drag-and-check.directive';
+
 export * from './directive/drag-and-check.directive';
 
 @NgModule({
   declarations: [
-    DragAndCheckDirective,
-    Offsets
+    DragAndCheckDirective
   ],
   exports: [
-    DragAndCheckDirective,
-    Offsets
+    DragAndCheckDirective
   ]
 })
 export class DragAndCheckModule {
