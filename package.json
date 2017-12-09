@@ -1,6 +1,6 @@
 {
   "name": "ng2-drag-and-check",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "scripts": {
     "build": "ngm build -p src --clean"
@@ -15,6 +15,9 @@
     "url": "https://github.com/gpansu/ng2-drag-and-check/issues",
     "email": "gilles.pansu@gmail.com"
   },
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/gpansu/ng2-drag-and-check#readme",
   "main": "bundles/ng2-drag-and-check.umd.js",
   "peerDependencies": {
