@@ -1,12 +1,12 @@
 {
   "name": "ng2-drag-and-check",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "license": "MIT",
   "scripts": {
     "build": "ngm build -p src --clean"
   },
   "author": "Gilles Pansu <gilles.pansu@gmail.com> (https://github.com/gpansu)",
-  "keywords": [ "angular", "2", "4", "draggable", "ng", "drag" ],
+  "keywords": [ "angular", "2", "4", "draggable", "ng", "drag" , "borders", "bounds"],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/gpansu/ng2-drag-and-check.git"
@@ -15,9 +15,6 @@
     "url": "https://github.com/gpansu/ng2-drag-and-check/issues",
     "email": "gilles.pansu@gmail.com"
   },
-  "files": [
-    "dist"
-  ],
   "homepage": "https://github.com/gpansu/ng2-drag-and-check#readme",
   "main": "bundles/ng2-drag-and-check.umd.js",
   "peerDependencies": {
