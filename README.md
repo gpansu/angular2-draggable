@@ -14,7 +14,7 @@ All credits should go to xieziyu for his ground work.
 ng2-drag-and-check is an angular (ver >= 2.x) directive that makes the DOM element draggable. (Note that: It's different from drag-and-drop)
 
 # Latest Update
-+ 2017.12.09: Publish package
++ 2017.12.10: packaging with ng-packagr and unit tests
 
 # Installation
 ```
@@ -23,7 +23,7 @@ npm install ng2-drag-and-check --save
 
 
 # Usage
-Please refer to the [demo](https://xieziyu.github.io/#/angular2-draggable/demo) page.
+Please refer to the original [demo](https://xieziyu.github.io/#/angular2-draggable/demo) page.
 
 1. Firstly, import `DragAndCheckModule` in your app module (or any other proper angular module):
     ```typescript

@@ -1,4 +1,11 @@
 
+<a name="1.1.1"></a>
+## [1.1.1] (2017-12-10)
+
+### packaging and tests
++ Switching to ng-packagr
++ Unit testing
+
 <a name="1.1.0"></a>
 ## [1.1.0] (2017-12-08)
 
