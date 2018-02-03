@@ -1,3 +1,8 @@
+<a name="1.1.2"></a>
+## [1.1.2] (2019-01-18)
+
+### moving to angular 5
++ Switching peer dependency on angular core to ^5.0.1
 
 <a name="1.1.1"></a>
 ## [1.1.1] (2017-12-10)
